@@ -32,7 +32,7 @@ export default class Login extends React.Component {
                 <div className="col-md-12">
                     <div className="header">
                         <img alt="Showcase" className="showcase" src={require('../../../public/assets/showcaseheader.png')}/>
-                        <p className="intro"> Welcome to Showcase! </p>
+                        <p className="intro"> Welcome Showcase! </p>
                         <p className="intro"> Showcase is a new music discovery app that generates playlists based on bands coming to your town in genres you like. Listen to your favorite bands on tour before they come to town.
                         </p>
                         <p className="intro2"> To get started, login with your Spotify credentials below. </p>
