@@ -1,0 +1,100 @@
+/* Css styles for pages*/
+
+
+
+.navbar-default .navbar-collapse{
+    background-color: black;
+}
+div.container-fluid {
+    background-color: black;
+    height: 80px;
+}
+
+/*.showcase {*/
+    /*height: 75px;*/
+    /*width: 100px;*/
+/*}*/
+
+/*.spotifylogo {*/
+    /*height: 75px;*/
+    /*width: 100px;*/
+/*}*/
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    margin-top: 50px;
+    font-size: .7em;
+    text-align: center;
+}
+
+.intro {
+    font-size: 1.5em;
+}
+.intro2 {
+    padding-top: 10px;
+}
+
+.loginBtn {
+    background-color: #23cf5f;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 20px;
+    text-align: center;
+
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a.footerlink {
+    color: black;
+}
+a.btn-primary:hover {
+    text-decoration: none;
+    color: dimgrey;
+}
+
+.btn-primary {
+    border-color: transparent;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+.imageSize img{
+    height: 200px;
+    width: 200px;
+}
+
+.profilePic {
+    display: none;
+}
+
+.form-control {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 20%;
+
+}
+.loginBtn {
+    margin-top: 20px;
+}
+
+.songkick {
+    width: 60px;
+    height: 20px;
+}
+
+.spotify {
+    color: #23cf5f;
+    font-size:1.4em;
+}
+
+.savePlaylist {
+    font-size: 2em;
+}
